@@ -6,3 +6,6 @@ First project, following Blender Guru's Beginner Blender Tutorial (2026) on YouT
 
 Render without textures:
 <img width="1920" height="1080" alt="render1" src="https://github.com/user-attachments/assets/44c69a29-4d7d-432c-886e-c09bfcbbd831" />
+
+Render with textures:
+<img width="1920" height="1080" alt="render2_texture" src="https://github.com/user-attachments/assets/5b48656d-956c-41e4-bf52-82a636234a97" />
